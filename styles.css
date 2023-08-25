@@ -3,5 +3,5 @@
     --verde: #008000; --fundo-verde: #00e000; --azul: #3e3eff; --fonte-projeto:"dosis";
 }
 body{
-    background-color: var(--verde); margin: 0; font-family: font-family: 'Rye', cursive;
+    background-color: var(--vermelho); margin: 0; font-family: font-family: 'Rye', cursive;
 }
