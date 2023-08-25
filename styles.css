@@ -5,5 +5,5 @@
 }
 body{
     background-color: var(--vermelho);
-     margin: 0; font-family: font-family: 'Rye', cursive;
+     margin: 0; font-family: var(--fonte-projeto)
 }
