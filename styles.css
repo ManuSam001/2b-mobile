@@ -4,6 +4,6 @@
     --lilas: #3e3eff; --fonte-projeto:"dosis";
 }
 body{
-    background-color: var(--vermelho);
+    background-color: var(--amarelo);
      margin: 0; font-family: var(--fonte-projeto)
 }
